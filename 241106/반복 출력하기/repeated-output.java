@@ -7,7 +7,7 @@ public class Main {
     }
     public static void printN(int n) {
         for (int i=0 ; i<n ; i++){
-            System.out.print("12345^&*()_");
+            System.out.println("12345^&*()_");
         }
     }
 }
